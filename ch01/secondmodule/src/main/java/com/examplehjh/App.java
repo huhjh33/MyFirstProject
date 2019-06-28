@@ -27,6 +27,7 @@ public class App
         myList.add("aaa9");
         myList.add("aaa10");
         myList.add("aaa11");
+        myList.add("aaa1");
 
         System.out.println(myList.get(8));
         System.out.println(myList);
